@@ -1,16 +1,15 @@
 # Development Strategy
 
-> `name-of-project`
+G*six for future
+-
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+it is about group six for knowing each others in HYF Belgium and work togehter to figeur out how learn coding 
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+ ![wireframe](https://raw.githubusercontent.com/HackYourFutureBelgium/incremental-development/master/integrate/wireframe.gif)
 
 ## 0. Set-Up
 
